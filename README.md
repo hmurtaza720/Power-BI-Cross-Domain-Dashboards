@@ -121,7 +121,7 @@ Insights into customer demographics, subscriptions, and purchase patterns.
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone (https://github.com/hmurtaza720/Power-BI-Cross-Domain-Dashboards)
 ```
 ### **📬 Contact**
 
