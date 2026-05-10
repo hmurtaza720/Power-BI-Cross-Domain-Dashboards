@@ -144,7 +144,7 @@ git clone https://github.com/hmurtaza720/Power-BI-Cross-Domain-Dashboards
 ### **📬 Contact**
 
 - Syed Murtaza Hassan
-- Data Analyst & BI Developer
-- LinkedIn: www.linkedin.com/in/syed-murtaza-hassan-rizvi-736795279
+- Data & AI Engineer
+- LinkedIn: https://www.linkedin.com/in/hmurtaza720/
 - Email: hmurtaza510@gmail.com
 
